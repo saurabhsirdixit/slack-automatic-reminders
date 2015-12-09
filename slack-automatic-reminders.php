@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Slack Automatic Reminders
- * Plugin URI: 
+ * Plugin URI: https://github.com/saurabhsirdixit/slack-automatic-reminders
  * Description: This plugin allows you to send automatic reminders to Slack channels.
  * Version: 0.0.1
  * Author: Saurabh Dixit
